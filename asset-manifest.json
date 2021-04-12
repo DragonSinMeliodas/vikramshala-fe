@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vikramshala-fe/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/vikramshala-fe/static/js/main.933a4d60.chunk.js",
+    "main.js.map": "/vikramshala-fe/static/js/main.933a4d60.chunk.js.map",
+    "runtime-main.js": "/vikramshala-fe/static/js/runtime-main.37dd5540.js",
+    "runtime-main.js.map": "/vikramshala-fe/static/js/runtime-main.37dd5540.js.map",
+    "static/css/2.5c573378.chunk.css": "/vikramshala-fe/static/css/2.5c573378.chunk.css",
+    "static/js/2.56602223.chunk.js": "/vikramshala-fe/static/js/2.56602223.chunk.js",
+    "static/js/2.56602223.chunk.js.map": "/vikramshala-fe/static/js/2.56602223.chunk.js.map",
+    "static/js/3.367fb2d2.chunk.js": "/vikramshala-fe/static/js/3.367fb2d2.chunk.js",
+    "static/js/3.367fb2d2.chunk.js.map": "/vikramshala-fe/static/js/3.367fb2d2.chunk.js.map",
+    "index.html": "/vikramshala-fe/index.html",
+    "static/css/2.5c573378.chunk.css.map": "/vikramshala-fe/static/css/2.5c573378.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/vikramshala-fe/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.56602223.chunk.js.LICENSE.txt": "/vikramshala-fe/static/js/2.56602223.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37dd5540.js",
+    "static/css/2.5c573378.chunk.css",
+    "static/js/2.56602223.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.933a4d60.chunk.js"
+  ]
+}
