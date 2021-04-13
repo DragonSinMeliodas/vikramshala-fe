@@ -1,19 +1,17 @@
 {
   "files": {
     "main.css": "/vikramshala-fe/static/css/main.ba59ae19.chunk.css",
-    "main.js": "/vikramshala-fe/static/js/main.d9b577b7.chunk.js",
-    "main.js.map": "/vikramshala-fe/static/js/main.d9b577b7.chunk.js.map",
-    "runtime-main.js": "/vikramshala-fe/static/js/runtime-main.87f22c9e.js",
-    "runtime-main.js.map": "/vikramshala-fe/static/js/runtime-main.87f22c9e.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/vikramshala-fe/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c4a5cbee.chunk.js": "/vikramshala-fe/static/js/2.c4a5cbee.chunk.js",
-    "static/js/2.c4a5cbee.chunk.js.map": "/vikramshala-fe/static/js/2.c4a5cbee.chunk.js.map",
-    "static/js/3.5260af3f.chunk.js": "/vikramshala-fe/static/js/3.5260af3f.chunk.js",
-    "static/js/3.5260af3f.chunk.js.map": "/vikramshala-fe/static/js/3.5260af3f.chunk.js.map",
+    "main.js": "/vikramshala-fe/static/js/main.0b13085f.chunk.js",
+    "main.js.map": "/vikramshala-fe/static/js/main.0b13085f.chunk.js.map",
+    "runtime-main.js": "/vikramshala-fe/static/js/runtime-main.37dd5540.js",
+    "runtime-main.js.map": "/vikramshala-fe/static/js/runtime-main.37dd5540.js.map",
+    "static/js/2.4d6e5739.chunk.js": "/vikramshala-fe/static/js/2.4d6e5739.chunk.js",
+    "static/js/2.4d6e5739.chunk.js.map": "/vikramshala-fe/static/js/2.4d6e5739.chunk.js.map",
+    "static/js/3.367fb2d2.chunk.js": "/vikramshala-fe/static/js/3.367fb2d2.chunk.js",
+    "static/js/3.367fb2d2.chunk.js.map": "/vikramshala-fe/static/js/3.367fb2d2.chunk.js.map",
     "index.html": "/vikramshala-fe/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/vikramshala-fe/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.ba59ae19.chunk.css.map": "/vikramshala-fe/static/css/main.ba59ae19.chunk.css.map",
-    "static/js/2.c4a5cbee.chunk.js.LICENSE.txt": "/vikramshala-fe/static/js/2.c4a5cbee.chunk.js.LICENSE.txt",
+    "static/js/2.4d6e5739.chunk.js.LICENSE.txt": "/vikramshala-fe/static/js/2.4d6e5739.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/vikramshala-fe/static/media/image-mockups.48d35b17.png",
     "static/media/icon-api.74c8ad17.svg": "/vikramshala-fe/static/media/icon-api.74c8ad17.svg",
     "static/media/icon-budgeting.ad716997.svg": "/vikramshala-fe/static/media/icon-budgeting.ad716997.svg",
@@ -22,10 +20,9 @@
     "static/media/logo.4d7cebc5.svg": "/vikramshala-fe/static/media/logo.4d7cebc5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.87f22c9e.js",
-    "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.c4a5cbee.chunk.js",
+    "static/js/runtime-main.37dd5540.js",
+    "static/js/2.4d6e5739.chunk.js",
     "static/css/main.ba59ae19.chunk.css",
-    "static/js/main.d9b577b7.chunk.js"
+    "static/js/main.0b13085f.chunk.js"
   ]
 }
