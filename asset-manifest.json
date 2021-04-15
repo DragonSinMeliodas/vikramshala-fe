@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/vikramshala-fe/static/css/main.c5372f89.chunk.css",
-    "main.js": "/vikramshala-fe/static/js/main.565e274f.chunk.js",
-    "main.js.map": "/vikramshala-fe/static/js/main.565e274f.chunk.js.map",
-    "runtime-main.js": "/vikramshala-fe/static/js/runtime-main.37dd5540.js",
-    "runtime-main.js.map": "/vikramshala-fe/static/js/runtime-main.37dd5540.js.map",
-    "static/js/2.92a3e078.chunk.js": "/vikramshala-fe/static/js/2.92a3e078.chunk.js",
-    "static/js/2.92a3e078.chunk.js.map": "/vikramshala-fe/static/js/2.92a3e078.chunk.js.map",
-    "static/js/3.367fb2d2.chunk.js": "/vikramshala-fe/static/js/3.367fb2d2.chunk.js",
-    "static/js/3.367fb2d2.chunk.js.map": "/vikramshala-fe/static/js/3.367fb2d2.chunk.js.map",
+    "main.js": "/vikramshala-fe/static/js/main.92c169af.chunk.js",
+    "main.js.map": "/vikramshala-fe/static/js/main.92c169af.chunk.js.map",
+    "runtime-main.js": "/vikramshala-fe/static/js/runtime-main.f17cb9ae.js",
+    "runtime-main.js.map": "/vikramshala-fe/static/js/runtime-main.f17cb9ae.js.map",
+    "static/css/2.07322a01.chunk.css": "/vikramshala-fe/static/css/2.07322a01.chunk.css",
+    "static/js/2.1b18f55e.chunk.js": "/vikramshala-fe/static/js/2.1b18f55e.chunk.js",
+    "static/js/2.1b18f55e.chunk.js.map": "/vikramshala-fe/static/js/2.1b18f55e.chunk.js.map",
+    "static/js/3.d5720f2e.chunk.js": "/vikramshala-fe/static/js/3.d5720f2e.chunk.js",
+    "static/js/3.d5720f2e.chunk.js.map": "/vikramshala-fe/static/js/3.d5720f2e.chunk.js.map",
     "index.html": "/vikramshala-fe/index.html",
+    "static/css/2.07322a01.chunk.css.map": "/vikramshala-fe/static/css/2.07322a01.chunk.css.map",
     "static/css/main.c5372f89.chunk.css.map": "/vikramshala-fe/static/css/main.c5372f89.chunk.css.map",
-    "static/js/2.92a3e078.chunk.js.LICENSE.txt": "/vikramshala-fe/static/js/2.92a3e078.chunk.js.LICENSE.txt",
+    "static/js/2.1b18f55e.chunk.js.LICENSE.txt": "/vikramshala-fe/static/js/2.1b18f55e.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/vikramshala-fe/static/media/1280x427_Digital_Co-creation_tcm99-4022774_tcm99-2750227-32.bace4668.jpg",
     "static/media/2.1210a482.png": "/vikramshala-fe/static/media/2.1210a482.png",
     "static/media/3.bf146828.png": "/vikramshala-fe/static/media/3.bf146828.png",
@@ -19,12 +21,15 @@
     "static/media/5.c38ac592.png": "/vikramshala-fe/static/media/5.c38ac592.png",
     "static/media/6.41f34301.png": "/vikramshala-fe/static/media/6.41f34301.png",
     "static/media/7.4e7e0bf9.png": "/vikramshala-fe/static/media/7.4e7e0bf9.png",
-    "static/media/8.00ff026e.png": "/vikramshala-fe/static/media/8.00ff026e.png"
+    "static/media/8.00ff026e.png": "/vikramshala-fe/static/media/8.00ff026e.png",
+    "static/media/Ai-image-deep-net-v3-690px.2fe34c4d.jpg": "/vikramshala-fe/static/media/Ai-image-deep-net-v3-690px.2fe34c4d.jpg",
+    "static/media/innovating-agri-credit.b492b387.jpg": "/vikramshala-fe/static/media/innovating-agri-credit.b492b387.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.37dd5540.js",
-    "static/js/2.92a3e078.chunk.js",
+    "static/js/runtime-main.f17cb9ae.js",
+    "static/css/2.07322a01.chunk.css",
+    "static/js/2.1b18f55e.chunk.js",
     "static/css/main.c5372f89.chunk.css",
-    "static/js/main.565e274f.chunk.js"
+    "static/js/main.92c169af.chunk.js"
   ]
 }
