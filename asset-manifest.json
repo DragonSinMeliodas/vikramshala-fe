@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/vikramshala-fe/static/css/main.c5372f89.chunk.css",
-    "main.js": "/vikramshala-fe/static/js/main.92c169af.chunk.js",
-    "main.js.map": "/vikramshala-fe/static/js/main.92c169af.chunk.js.map",
+    "main.css": "/vikramshala-fe/static/css/main.e267722f.chunk.css",
+    "main.js": "/vikramshala-fe/static/js/main.db8c29fe.chunk.js",
+    "main.js.map": "/vikramshala-fe/static/js/main.db8c29fe.chunk.js.map",
     "runtime-main.js": "/vikramshala-fe/static/js/runtime-main.f17cb9ae.js",
     "runtime-main.js.map": "/vikramshala-fe/static/js/runtime-main.f17cb9ae.js.map",
     "static/css/2.07322a01.chunk.css": "/vikramshala-fe/static/css/2.07322a01.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.d5720f2e.chunk.js.map": "/vikramshala-fe/static/js/3.d5720f2e.chunk.js.map",
     "index.html": "/vikramshala-fe/index.html",
     "static/css/2.07322a01.chunk.css.map": "/vikramshala-fe/static/css/2.07322a01.chunk.css.map",
-    "static/css/main.c5372f89.chunk.css.map": "/vikramshala-fe/static/css/main.c5372f89.chunk.css.map",
+    "static/css/main.e267722f.chunk.css.map": "/vikramshala-fe/static/css/main.e267722f.chunk.css.map",
     "static/js/2.1b18f55e.chunk.js.LICENSE.txt": "/vikramshala-fe/static/js/2.1b18f55e.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/vikramshala-fe/static/media/1280x427_Digital_Co-creation_tcm99-4022774_tcm99-2750227-32.bace4668.jpg",
     "static/media/2.1210a482.png": "/vikramshala-fe/static/media/2.1210a482.png",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.f17cb9ae.js",
     "static/css/2.07322a01.chunk.css",
     "static/js/2.1b18f55e.chunk.js",
-    "static/css/main.c5372f89.chunk.css",
-    "static/js/main.92c169af.chunk.js"
+    "static/css/main.e267722f.chunk.css",
+    "static/js/main.db8c29fe.chunk.js"
   ]
 }
